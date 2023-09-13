@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "react-avatar": "^5.0.3"
+    "react-avatar": "^5.0.3",
+    "react-beautiful-dnd": "^13.1.1"
+  },
+  "devDependencies": {
+    "@types/react-beautiful-dnd": "^13.1.4"
   }
 }
